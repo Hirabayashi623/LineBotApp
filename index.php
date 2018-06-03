@@ -38,7 +38,7 @@ foreach ($events as $event) {
   ### 受信したテキストを取得
   ############################################
   $recv_text = $event->getText();
-  $send_test = '準備中るー';  # $recv_text;
+  $send_test = 'comming soon.';  # $recv_text;
   ############################################
   ### bot,replyText：テキストを送信する
   ### 第一引数：リプライトークン（取得から数十秒間しか使えない）
