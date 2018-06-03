@@ -4,7 +4,7 @@
 ### ÉâÉCÉìí ímópÇÃê›íË
 ############################################
 define('LINE_API_URL'  ,"https://notify-api.line.me/api/notify");
-define('LINE_API_TOKEN','y25oS46iZL/s6n3L6OJNMquaRufs1JvRoxK4W3wTB6c2EOw1lvaRExbWpqqRyJmc0NxYGjGDwHga1RYeYZTevwyz4tQm0kd1Lh+SkQMVoTtH5cm/lpxQLy87o3LOxAogsqEret6PXBAb0l+sLjCNrAdB04t89/1O/w1cDnyilFU=');
+define('LINE_API_TOKEN','KjRlCxnU73OC8bv8xo5bke8WHcbQrvsShuRX2dVVQad');
 
 function post_message($message){
 
