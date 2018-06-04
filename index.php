@@ -78,6 +78,6 @@ foreach ($events as $event) {
   $bot->replyText($token, $send_test);
 }
 
-post_message("テスト投稿");
+#post_message("テスト投稿");
 
  ?>
